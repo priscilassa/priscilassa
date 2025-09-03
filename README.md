@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🎓 Formação Acadêmica
+- **Curso Técnico em Informática**  
+  *Senac Tatuapé - Em andamento*
 
-<!--
-**priscilassa/priscilassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologias que Estou Aprendendo
+Atualmente estou focado em desenvolver minhas habilidades nas seguintes áreas:
+- **Git & GitHub** (Controle de versão)
+- **Markdown** (Documentação)
+- **Hardware Básico** (Montagem e manutenção de computadores)
+- **Elétrica e Eletrônica Básica com Arduino** (Automação e prototipagem)
 
-Here are some ideas to get you started:
+## 👨‍💻 Experiência Profissional Anterior
+- **Operador de Loja**  
+  *Mercado DIA*  
+  *Atendimento ao cliente, organização de estoque e operações comerciais*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objetivos
+Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos, contribuindo para projetos desafiadores e crescendo profissionalmente.
+
