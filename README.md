@@ -15,5 +15,5 @@ Atualmente estou focado em desenvolver minhas habilidades nas seguintes áreas:
   *Atendimento ao cliente, organização de estoque e operações comerciais*
 
 ## 🚀 Objetivos
-Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos, contribuindo para projetos desafiadores e crescendo profissionalmente.
+Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos.
 
