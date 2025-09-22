@@ -1,3 +1,7 @@
+![basner github](https://github.com/user-attachments/assets/3bf6418f-5826-47df-9bb1-9bf749ffd7db)
+
+
+
 ## 🎓 Formação Acadêmica
 - **Curso Técnico em Informática**  
   *Senac Tatuapé - Em andamento*
