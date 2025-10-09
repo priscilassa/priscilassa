@@ -1,7 +1,7 @@
-![7f975f6b92cf21778deafaf7b0a01373](https://github.com/user-attachments/assets/a1f9efc9-c043-42dd-80d9-a8cf6349ad6e)
 
-<h1 align= "center" >o caos é inevitável</h1>
-<h3 align= "center" >"se olia no spelio e fala eu podo, eu consego"</h3>
+
+<h1 align= "center" > Taylor</h1>
+<h3 align= "center" >"a ironia do destino é uma divina comédia"</h3>
 <hr 
 
 ## 🎓 Formação Acadêmica
