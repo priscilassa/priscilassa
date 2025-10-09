@@ -1,8 +1,8 @@
 
+![2627a135e2af4ca95912b67beb07b06d](https://github.com/user-attachments/assets/7317f05e-2db9-4589-9a88-bb805f4b7b48)
 
 <h1 align= "center" > Taylor</h1>
 <h3 align= "center" >"a ironia do destino é uma divina comédia"</h3>
-<hr 
 
 ## 🎓 Formação Acadêmica
 - **Curso Técnico em Informática**  
